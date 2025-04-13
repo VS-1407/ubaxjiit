@@ -19,6 +19,14 @@ body {
     margin: auto;
     padding: 20px;
 }
+.qr-code {
+    max-width: 100%;
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 8px;
+}
 
 /* Header layout */
 header {
